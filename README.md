@@ -1,0 +1,1 @@
+This is a Rainmeter skin that shows the currently selected power plan. When clicking on the skin, you can then select any of the other power plans from the shown list.
